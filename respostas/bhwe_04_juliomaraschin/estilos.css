@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+div {
+	border: 1px solid #000;
+	padding: 15px;
+}
+
+.estilo-alternativo {
+	color: #FF0000;
+	font-style: italic;
+}
